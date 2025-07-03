@@ -109,7 +109,7 @@ The proposed framework leverages VLMs for semantic reasoning, builds an external
 
 ## My Thoughts
 
-**I haven't fully understand the Conformal Prediction part. Many maths details are included. I intend to read more papers and then go back to it.**
+**I haven't fully understood the Conformal Prediction part. Many maths details are included. I intend to read more papers and then go back to it.**
 
 This is solid work and has been cited by many other papers. This pipeline has become a commonly used baseline and actually the result is still rather good. The project provides codes and dataset, and I'm going to run it myself.
 
